@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://badge-answered-johnny-cursor.trycloudflare.com/vnc.html
+URL       : https://expired-assumes-implied-invited.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-04 16:08:37
+Created   : 2026-07-04 21:04:08
 =======================================================
