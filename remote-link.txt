@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://envelope-quick-suggests-bubble.trycloudflare.com/vnc.html
+URL       : https://join-pdt-nissan-constitute.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-03 21:13:26
+Created   : 2026-07-04 03:30:01
 =======================================================
