@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://laid-purchases-event-significant.trycloudflare.com/vnc.html
+URL       : https://native-fin-inspiration-ride.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-08 02:59:20
+Created   : 2026-07-08 07:34:02
 =======================================================
