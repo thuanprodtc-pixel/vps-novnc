@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://goal-blessed-tray-alt.trycloudflare.com/vnc.html
+URL       : https://practices-stretch-references-adopted.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-12 11:16:23
+Created   : 2026-07-12 16:04:42
 =======================================================
