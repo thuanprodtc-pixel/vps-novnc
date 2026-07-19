@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://reservations-page-degree-lyric.trycloudflare.com/vnc.html
+URL       : https://protein-jam-genome-reports.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-18 20:56:17
+Created   : 2026-07-19 03:16:47
 =======================================================
