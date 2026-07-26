@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://chris-afford-farm-buildings.trycloudflare.com/vnc.html
+URL       : https://scientist-papers-coming-describing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-26 07:40:11
+Created   : 2026-07-26 11:24:53
 =======================================================
