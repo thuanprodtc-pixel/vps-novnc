@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://developed-bracelet-ink-helps.trycloudflare.com/vnc.html
+URL       : https://jerry-office-draft-honolulu.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-28 07:44:26
+Created   : 2026-07-28 12:02:18
 =======================================================
