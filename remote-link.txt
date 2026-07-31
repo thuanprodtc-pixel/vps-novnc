@@ -1,1 +1,9 @@
-TUNNEL_FAILED_20260731_122133
+=======================================================
+noVNC INFO - DucThang x TrueHieu Edition
+=======================================================
+URL       : https://creative-bids-earn-particle.trycloudflare.com/vnc.html
+Password  : hieudz
+Host      : trycloudflare
+Protocol  : noVNC over Cloudflared
+Created   : 2026-07-31 16:50:25
+=======================================================
