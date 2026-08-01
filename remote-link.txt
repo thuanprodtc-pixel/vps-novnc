@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://arabic-stress-content-full.trycloudflare.com/vnc.html
+URL       : https://machines-nursery-dentists-elliott.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-31 21:10:54
+Created   : 2026-08-01 03:18:40
 =======================================================
