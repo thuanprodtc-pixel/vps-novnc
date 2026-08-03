@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sustainability-arrived-courts-text.trycloudflare.com/vnc.html
+URL       : https://der-curriculum-visual-purple.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-02 21:01:43
+Created   : 2026-08-03 03:20:56
 =======================================================
