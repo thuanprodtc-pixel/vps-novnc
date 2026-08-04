@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://staying-decimal-emerging-thehun.trycloudflare.com/vnc.html
+URL       : https://rights-directive-systematic-load.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-03 21:08:31
+Created   : 2026-08-04 02:50:29
 =======================================================
