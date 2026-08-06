@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ntsc-des-admit-cartoon.trycloudflare.com/vnc.html
+URL       : https://rain-coating-amp-left.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 21:16:25
+Created   : 2026-08-06 02:50:17
 =======================================================
