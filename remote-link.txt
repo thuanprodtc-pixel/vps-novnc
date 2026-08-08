@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cult-rom-replaced-criterion.trycloudflare.com/vnc.html
+URL       : https://freebsd-kent-brake-montana.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 20:48:01
+Created   : 2026-08-08 01:52:23
 =======================================================
