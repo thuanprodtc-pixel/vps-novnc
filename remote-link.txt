@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://collectible-plastic-stages-belt.trycloudflare.com/vnc.html
+URL       : https://invitation-border-adsl-eva.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-10 06:14:16
+Created   : 2026-08-10 11:14:28
 =======================================================
