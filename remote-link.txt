@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://email-dude-confident-rider.trycloudflare.com/vnc.html
+URL       : https://chose-framing-displaying-aviation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 16:03:28
+Created   : 2026-08-12 20:52:43
 =======================================================
