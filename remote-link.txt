@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pda-mountain-university-strange.trycloudflare.com/vnc.html
+URL       : https://publications-scholars-teach-fireplace.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-13 16:03:36
+Created   : 2026-08-13 20:50:00
 =======================================================
