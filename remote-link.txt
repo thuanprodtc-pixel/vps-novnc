@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://produces-honor-vegas-rich.trycloudflare.com/vnc.html
+URL       : https://planning-random-snake-tel.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-21 15:38:23
+Created   : 2026-08-21 20:30:53
 =======================================================
