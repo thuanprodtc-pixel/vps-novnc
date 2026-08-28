@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://introduced-color-sign-drawing.trycloudflare.com/vnc.html
+URL       : https://scheme-expires-responsibility-consult.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-28 10:20:29
+Created   : 2026-08-28 23:57:33
 =======================================================
