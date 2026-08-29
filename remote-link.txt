@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lime-extraction-sample-assessing.trycloudflare.com/vnc.html
+URL       : https://solid-technique-legend-divide.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 18:22:26
+Created   : 2026-08-29 22:31:46
 =======================================================
