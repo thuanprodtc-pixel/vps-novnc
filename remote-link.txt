@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://solid-technique-legend-divide.trycloudflare.com/vnc.html
+URL       : https://presented-his-ram-accommodate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 22:31:46
+Created   : 2026-08-30 04:29:12
 =======================================================
