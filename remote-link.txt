@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ceramic-black-beer-weblogs.trycloudflare.com/vnc.html
+URL       : https://manhattan-usc-warning-intersection.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-02 14:13:29
+Created   : 2026-09-02 18:31:47
 =======================================================
