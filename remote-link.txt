@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tokyo-safe-creek-off.trycloudflare.com/vnc.html
+URL       : https://advancement-comm-universal-canberra.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-04 22:16:00
+Created   : 2026-09-05 03:39:24
 =======================================================
