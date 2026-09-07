@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://manager-lakes-spotlight-alternate.trycloudflare.com/vnc.html
+URL       : https://falls-western-contractors-jackson.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-06 22:02:45
+Created   : 2026-09-07 03:40:48
 =======================================================
