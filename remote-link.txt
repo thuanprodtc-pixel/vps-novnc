@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mel-acquisition-harbour-overall.trycloudflare.com/vnc.html
+URL       : https://colon-intro-strongly-scholars.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-11 14:10:56
+Created   : 2026-09-11 18:18:08
 =======================================================
