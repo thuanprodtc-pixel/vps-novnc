@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mas-edwards-casting-thing.trycloudflare.com/vnc.html
+URL       : https://maple-valium-but-simon.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-21 04:13:53
+Created   : 2026-09-21 10:31:15
 =======================================================
