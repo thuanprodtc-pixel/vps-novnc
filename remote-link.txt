@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://not-anybody-appropriate-genesis.trycloudflare.com/vnc.html
+URL       : https://legacy-honor-strip-labor.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-03 10:18:16
+Created   : 2026-10-03 18:36:56
 =======================================================
