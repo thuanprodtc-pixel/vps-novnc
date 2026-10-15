@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://doubt-mins-constitute-having.trycloudflare.com/vnc.html
+URL       : https://advantage-talks-giants-statistical.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 14:48:30
+Created   : 2026-10-15 22:58:59
 =======================================================
