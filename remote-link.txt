@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://identify-ccd-garcia-southeast.trycloudflare.com/vnc.html
+URL       : https://hay-translate-referred-raleigh.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-17 22:03:54
+Created   : 2026-10-18 03:48:44
 =======================================================
