@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://needle-approx-kit-symbols.trycloudflare.com/vnc.html
+URL       : https://goes-compiled-wto-beaver.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 05:48:37
+Created   : 2026-11-05 17:56:30
 =======================================================
